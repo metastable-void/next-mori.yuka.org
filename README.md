@@ -1,2 +1,2 @@
-# 真空.org
-Personal showcase for @metastable-void
+# mori.yuka.org
+Personal website for @metastable-void
