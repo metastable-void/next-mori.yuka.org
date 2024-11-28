@@ -1,0 +1,51 @@
+
+.site-header {
+    margin: 0;
+    margin-inline: auto;
+    max-inline-size: 40rem;
+    padding-inline: 1rem;
+    background: transparent url(icon-left.png) 1rem center / 4rem no-repeat;
+}
+
+.site-header-inner {
+    margin-inline-start: 5rem;
+}
+.site-title {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 0;
+}
+.site-domain {
+    font-size: 1.5rem;
+}
+
+.site-main {
+    margin-inline: auto;
+    max-inline-size: 40rem;
+    padding-inline: 1rem;
+}
+
+.site-main h2 {
+    font-size: 2rem;
+    margin-block: 1rem;
+}
+
+.site-main h3 {
+    font-size: 1.5rem;
+    margin-block: .75rem;
+}
+
+.site-main a {
+    color: var(--accent);
+}
+
+.site-main p {
+    margin-block: 1rem;
+}
+
+.site-main ul {
+    margin-block: 1rem;
+    padding-inline-start: 1rem;
+    margin-inline-start: 1rem;
+    list-style: disc;
+}

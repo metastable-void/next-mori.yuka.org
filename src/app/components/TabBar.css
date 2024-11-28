@@ -1,0 +1,27 @@
+
+.tab-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-block-end: solid 1px var(--border);
+    position: sticky;
+    top: 0;
+    background-color: var(--background);
+}
+
+.tab-bar .tab {
+    display: block;
+    margin: 0;
+    font-size: 125%;
+    padding-inline: 1rem;
+    padding-block: 0.5rem;
+    border-block-end: solid 8px transparent;
+}
+
+.tab-bar .tab.selected {
+    border-block-end-color: var(--accent);
+}
+
+.tab-bar .tab:not(.selected) {
+    opacity: .5;
+}
