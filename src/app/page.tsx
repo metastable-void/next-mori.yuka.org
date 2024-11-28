@@ -68,6 +68,7 @@ export default function Home() {
         <li><a href="https://soundcloud.com/metastable-void">SoundCloud @metastable-void</a></li>
         <li><a href="https://x.com/vericava">X @vericava (真空)</a></li>
         <li><a href="https://bsky.app/profile/mori.yuka.org">Bluesky @mori.yuka.org (真空)</a></li>
+        <li><a href="https://www.youtube.com/@vericava" lang="ja">YouTube: 真空ちゃんねる</a></li>
       </ul>
       <h2>Family</h2>
       <p>My dad: Toshinori MORI, a researcher in high-energy particle physics (<a href="https://x.com/muegamma">X @muegamma</a>)</p>
