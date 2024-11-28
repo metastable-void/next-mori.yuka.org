@@ -45,7 +45,7 @@ export default function Home() {
       </ul>
       <p>I am also interested in:</p>
       <ul>
-        <li>Medical sciences (especially public health and phychiatry)</li>
+        <li>Medical sciences (especially public health and psychiatry)</li>
         <li>Philosophy</li>
       </ul>
       <h2>Areas I work on</h2>
