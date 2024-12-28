@@ -1,0 +1,80 @@
+
+@media screen {
+    .postcard {
+        background-color: #fff;
+        box-shadow: 0 0 .5rem rgba(0, 0, 0, .1);
+        margin-inline: auto;
+        margin-block: 2rem;
+    }
+
+    body {
+        background-color: #eee;
+    }
+}
+
+@media print {
+    .tab-bar, #footer {
+        display: none;
+    }
+}
+
+@page {
+    size: 100mm 148mm;
+    margin: 0;
+}
+
+.postcard {
+    inline-size: 25em;
+    block-size: 37em;
+    padding-inline: 2em;
+    padding-block: 1em;
+    overflow: hidden;
+}
+
+p {
+    margin-block: 1em;
+}
+
+main p {
+    text-indent: 1em;
+}
+
+.from {
+    text-align: end;
+}
+
+h1 {
+    font-size: 1.25em;
+    text-align: center;
+    margin-block: 1em;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.qr {
+    display: block;
+    width: 6em;
+    height: 6em;
+}
+
+.postcard-wrapper {
+    font-size: 4mm;
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+figure .postcard {
+    font-size: .25em;
+    outline: solid .25em #aaa;
+    box-shadow: none;
+    margin: 0;
+}
