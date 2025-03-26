@@ -10,6 +10,10 @@ export default function Home() {
       </div>
     </header>
     <main className="site-main">
+      <iframe
+          src="https://vericava-chat-1.hf.space"
+          className="hf-space"
+      ></iframe>
       <p>Personal website for Yuka MORI</p>
       <h2>My name</h2>
       <p>My legal name is Yuka MORI. (My first name is Yuka)</p>
