@@ -11,7 +11,7 @@ export default function Home() {
     </header>
     <main className="site-main">
       <iframe
-          src="https://vericava-chat-1.hf.space"
+          src="https://vericava-chat-2.hf.space"
           className="hf-space"
       ></iframe>
       <p>Personal website for Yuka MORI</p>
