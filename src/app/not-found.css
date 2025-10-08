@@ -4,3 +4,8 @@
     margin-inline: auto;
     max-inline-size: max-content;
 }
+
+#error-404 h1 {
+    font-weight: bold;
+    font-size: 2rem;
+}
