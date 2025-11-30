@@ -63,8 +63,73 @@ export default function Home() {
         <li>Writing</li>
         <li>And hacker activisms ;)</li>
       </ul>
+      <h1>Language Profile</h1>
+      <p>
+        I am a multilingual professional who primarily works in English for technical and research activities,
+        and in Japanese for day-to-day communication in Japan. My language use is domain-based rather than tied
+        to nationality, and I switch languages flexibly depending on context and the people around me.
+      </p>
+
+      <p>
+        My strengths are in <strong>audio-based comprehension</strong> and
+        <strong>context-driven understanding</strong>. I process language mainly through sound and semantic
+        context, which allows me to understand spoken Japanese and English effectively during real communication.
+        In technical settings, English is my most natural working language, while Japanese remains my primary
+        language for verbal interaction at work.
+      </p>
+
+      <p>
+        At the same time, I have some <strong>orthographic limitations in Japanese</strong>, especially with
+        kanji in isolation, multiple readings of characters, and writing by hand. These weaknesses appear mainly
+        in test-style or form-based situations, but they do not affect my practical ability to communicate or
+        understand Japanese in real environments. My reading comprehension works best with context, rather than
+        character-level recall.
+      </p>
+
+      <p>
+        I regularly interact with colleagues and friends from diverse linguistic backgrounds, including many
+        L1 Chinese speakers. In these situations, I often use a mixture of Japanese and English to ensure mutual
+        understanding. This adaptive code-switching is a natural part of how I communicate in multilingual
+        settings.
+      </p>
+
+      <p>
+        I also occasionally experience listening difficulty when conversations involve rapid code-switching,
+        unclear articulation, or multiple accents. This is related to cognitive load rather than lack of
+        proficiency, and it does not affect normal communication when context is clear.
+      </p>
+
+      <p>Overall, my language profile can be summarized as:</p>
+
+      <ul>
+        <li>
+          <strong>English</strong>: Primary language for technical thought, writing, and research
+        </li>
+        <li>
+          <strong>Japanese</strong>: Primary spoken language for workplace communication; strong in context,
+          weaker in orthography
+        </li>
+        <li>
+          <strong>Multilingual Adaptation</strong>: Frequent code-switching with international colleagues
+          (especially Chinese L1 speakers)
+        </li>
+        <li>
+          <strong>Strengths</strong>: Audio-dominant processing, context-based comprehension,
+          flexible multilingual communication
+        </li>
+        <li>
+          <strong>Weaknesses</strong>: Limited kanji recall/writing; reduced listening accuracy
+          under high cognitive load
+        </li>
+      </ul>
+
+      <p>
+        This profile reflects how I naturally communicate across languages and helps explain the domains where
+        each language is most effective for me.
+      </p>
+
       <h2>Jobs</h2>
-      <p>Currently open for hiring ;)</p>
+      <p>Working as a solutions engineer at an AI/IT company.</p>
       <p>As a co-founder, volunteering as the representive director at <a href="https://www.menhera.org/">Menhera.org / Human-life Information Platforms Institute</a> (<a lang="ja" href="https://www.menhera.or.jp/">一般社団法人生活情報基盤研究機構</a>).</p>
       <h2>Links</h2>
       <ul>
